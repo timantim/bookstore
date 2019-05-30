@@ -7,360 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aca98cdd-37ab-4689-a0d3-74a1ab69950d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/http/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/http/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/atoms/get-attribute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/atoms/is-displayed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/child/childPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/child/grandchild/grandchildPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/click_iframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/click_in_iframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/disabled_element.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/disappearing_element.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/google_map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/google_map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/html5_submit_buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/issue5237.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/issue5237_frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/issue5237_target.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/link_that_wraps.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/mapped_page1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/mapped_page2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/mapped_page3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/overlapping_elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/partially_overlapping_elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/span_that_wraps.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/submitted_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/click_tests/wrapped_overlapping_elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/element_in_frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/element_in_nested_frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_element_out_of_view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_empty_element.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_fixed_element.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_hidden_element.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_invisible_element.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_transparent_element.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/simple_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_222222_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_228ef1_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/jquery-ui-1.8.10.custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/firefox/jetpack-sample.xpi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/firefox/sample.xpi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/firefox/webextension.xpi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/bug4876.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/bug4876_iframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/deletingFrame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/deletingFrame_iframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/deletingFrame_iframe2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/html5/blue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/html5/database.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/html5/geolocation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/html5/green.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/html5/red.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/html5/status.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/html5/test.appcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/html5/yellow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/content.inline.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.dev.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.dev.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/img/anchor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/img/object.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/skin.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/js/themes/modern/theme.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/key_tests/remove_on_keypress.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/locators_tests/boolean_attribute_selected.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/locators_tests/boolean_attribute_selected_html4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modal_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modal_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modal_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modalindex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/overflow/x_auto_y_auto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/overflow/x_auto_y_hidden.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/overflow/x_auto_y_scroll.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/overflow/x_hidden_y_auto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/overflow/x_hidden_y_hidden.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/overflow/x_hidden_y_scroll.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/overflow/x_scroll_y_auto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/overflow/x_scroll_y_hidden.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/overflow/x_scroll_y_scroll.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/proxy/page1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/proxy/page2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/proxy/page3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/safari/frames_benchmark.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen_frame1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen_frame2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen_frames.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen_iframes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen_too_long.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen_x_long.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen_x_too_long.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen_y_long.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/screen/screen_y_too_long.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_height_above_200.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_height_above_2000.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_nested_scrolling_frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_nested_scrolling_frame_out_of_view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_small_height.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_double_overflow_auto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_frame_out_of_view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_nested_scrolling_frames.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_nested_scrolling_frames_out_of_view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_non_scrolling_frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_partially_hidden_element.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_scrolling_frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_scrolling_frame_out_of_view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_tall_frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_y_overflow_auto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/target_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/window_switching_tests/page_with_frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/lib/test/data/window_switching_tests/simple_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/net/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/net/portprober.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/remote/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/actions_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/chrome/options_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/cookie_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/element_finding_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/execute_script_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/fingerprint_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/http/http_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/http/util_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/io/io_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/io/zip_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/by_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/capabilities_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/error_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/events_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/http_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/logging_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/promise_aplus_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/promise_error_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/promise_flow_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/promise_generator_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/promise_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/testutil.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/until_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/lib/webdriver_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/logging_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/net/index_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/net/portprober_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/page_loading_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/phantomjs/execute_phantomjs_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/proxy_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/rect_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/remote_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/safari_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/session_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/stale_element_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/tag_name_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/testing/assert_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/testing/index_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/upload_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/selenium-webdriver/test/window_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/arrayTypeRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/arrayTypeRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/arrowParensRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/arrowReturnShorthandRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/arrowReturnShorthandRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/awaitPromiseRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/banCommaOperatorRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/banRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/banTypesRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/banTypesRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/binaryExpressionOperandOrderRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/binaryExpressionOperandOrderRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/callableTypesRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/callableTypesRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/completedDocsRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/completedDocsRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/curlyRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/deprecationRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/encodingRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/encodingRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/eoflineRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/fileHeaderRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/forinRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/forinRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/importBlacklistRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/importSpacingRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/indentRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/indentRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/interfaceNameRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/interfaceOverTypeLiteralRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/jsdocFormatRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/labelPositionRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/linebreakStyleRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/linebreakStyleRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/matchDefaultExportNameRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/matchDefaultExportNameRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/maxClassesPerFileRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/maxFileLineCountRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/maxFileLineCountRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/maxLineLengthRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/memberAccessRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/memberAccessRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/memberOrderingRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/memberOrderingRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/newParensRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/newlineBeforeReturnRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/newlineBeforeReturnRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/newlinePerChainedCallRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/newlinePerChainedCallRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noAngleBracketTypeAssertionRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noAnyRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noArgRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noBitwiseRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noBooleanLiteralCompareRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noConditionalAssignmentRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noConditionalAssignmentRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noConsecutiveBlankLinesRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noConsecutiveBlankLinesRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noConsoleRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noConstructRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noDebuggerRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noDefaultExportRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noDuplicateSuperRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noDuplicateSwitchCaseRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noDuplicateVariableRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noDuplicateVariableRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noDynamicDeleteRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noEmptyInterfaceRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noEvalRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noForInArrayRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noForInArrayRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noImplicitDependenciesRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noImportSideEffectRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noImportSideEffectRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noInferrableTypesRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noInferredEmptyObjectTypeRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noInferredEmptyObjectTypeRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noInvalidTemplateStringsRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noInvalidThisRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noIrregularWhitespaceRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noMagicNumbersRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noNamespaceRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noNamespaceRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noNonNullAssertionRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noNonNullAssertionRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noNullKeywordRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noNullKeywordRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noObjectLiteralTypeAssertionRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noParameterPropertiesRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noRedundantJsdocRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noReferenceImportRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noReferenceImportRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noReferenceRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noReferenceRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noRequireImportsRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noRequireImportsRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noReturnAwaitRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noShadowedVariableRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noShadowedVariableRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noSparseArraysRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noStringLiteralRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noStringLiteralRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noStringThrowRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noSubmoduleImportsRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noSwitchCaseFallThroughRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noThisAssignmentRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noThisAssignmentRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noTrailingWhitespaceRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnboundMethodRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnnecessaryCallbackWrapperRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnnecessaryCallbackWrapperRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnnecessaryClassRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnnecessaryQualifierRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnnecessaryQualifierRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnnecessaryTypeAssertionRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnsafeAnyRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnsafeAnyRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnsafeFinallyRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnusedExpressionRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnusedVariableRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUnusedVariableRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noUseBeforeDeclareRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noVarKeywordRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noVarKeywordRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noVarRequiresRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noVoidExpressionRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/noVoidExpressionRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/numberLiteralFormatRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/objectLiteralKeyQuotesRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/objectLiteralShorthandRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/objectLiteralShorthandRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/objectLiteralSortKeysRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/oneLineRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/oneVariablePerDeclarationRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/oneVariablePerDeclarationRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/onlyArrowFunctionsRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/orderedImportsRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/orderedImportsRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferConditionalExpressionRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferConstRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferForOfRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferFunctionOverMethodRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferMethodSignatureRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferObjectSpreadRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferReadonlyRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferReadonlyRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferSwitchRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferSwitchRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferTemplateRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferTemplateRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/preferWhileRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/promiseFunctionAsyncRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/quotemarkRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/radixRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/radixRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/restrictPlusOperandsRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/restrictPlusOperandsRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/returnUndefinedRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/semicolonRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/spaceBeforeFunctionParenRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/spaceBeforeFunctionParenRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/spaceWithinParensRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/spaceWithinParensRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/strictBooleanExpressionsRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/strictBooleanExpressionsRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/strictTypePredicatesRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/strictTypePredicatesRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/switchDefaultRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/switchFinalBreakRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/switchFinalBreakRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/trailingCommaRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/trailingCommaRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/tripleEqualsRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/typeLiteralDelimiterRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/typedefRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/typedefWhitespaceRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/typeofCompareRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/typeofCompareRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/unifiedSignaturesRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/useDefaultTypeParameterRule.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/useIsnanRule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/tslint/lib/rules/variableNameRule.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -622,7 +268,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559214150753" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559215078851" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/catalog-1-list" />
@@ -815,11 +461,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559214134203</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Angular Application">
+      <created>1559214219367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559214219367</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Angular Application">
+      <created>1559214315433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559214315433</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78380000" />
+    <option name="totallyTimeSpent" value="79243000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -834,7 +494,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3261745" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3261745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -852,7 +512,7 @@
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49932885" weight="0.3297587" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.3297587" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013423" side_tool="true" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5013423" side_tool="true" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4986577" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
