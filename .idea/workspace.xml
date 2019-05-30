@@ -8,8 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="aca98cdd-37ab-4689-a0d3-74a1ab69950d" name="Default Changelist" comment="Added Angular Application">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp-admin" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp-admin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp-admin" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -241,6 +241,32 @@
               <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
               <item name="bookstore" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -251,7 +277,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559244608879" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559245049096" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/catalog-1-list" />
@@ -430,7 +456,7 @@
       <workItem from="1559206136704" duration="3361000" />
       <workItem from="1559211783177" duration="869000" />
       <workItem from="1559227823001" duration="1444000" />
-      <workItem from="1559240326450" duration="3379000" />
+      <workItem from="1559240326450" duration="3895000" />
     </task>
     <task id="LOCAL-00001" summary="Added Angular Application">
       <created>1559212180926</created>
@@ -471,7 +497,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86771000" />
+    <option name="totallyTimeSpent" value="87287000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -485,7 +511,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33557048" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33557048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -504,7 +530,7 @@
       <window_info anchor="bottom" id="Spring" order="8" weight="0.3297587" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50402683" side_tool="true" visible="true" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49597314" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49597314" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.49932885" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.3297587" />
