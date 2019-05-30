@@ -11148,6 +11148,8 @@
       <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/yargs-parser/node_modules/camelcase/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/yargs-parser/node_modules/camelcase/readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp/node_modules/yargs-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore-web/src/main/java/webapp" afterDir="false" />
     </list>
@@ -11410,7 +11412,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559217461544" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559227028895" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/catalog-1-list" />
@@ -11621,7 +11623,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81067000" />
+    <option name="totallyTimeSpent" value="81376000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
