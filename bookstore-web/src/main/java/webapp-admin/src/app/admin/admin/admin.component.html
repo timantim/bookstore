@@ -1,0 +1,73 @@
+<!-- Left Panel -->
+<aside id="left-panel" class="left-panel" style="position: absolute; padding-top: 5%;">
+  <nav class="navbar navbar-expand-sm navbar-default">
+
+    <div class="navbar-header">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fa fa-bars"></i>
+      </button>
+    </div>
+
+    <div id="main-menu" class="main-menu collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        <li class="active">
+          <a routerLink="./" routerLinkActive="active"
+             [routerLinkActiveOptions]="{ exact: true }">  <i class="menu-icon fa fa-dashboard"></i>Dashboard </a>
+        </li>
+        <h3 class="menu-title">Main Admin Menu</h3><!-- /.menu-title -->
+        <li>
+          <a routerLink="./orders" routerLinkActive="active"> <i class="menu-icon ti-email"></i>Orders </a>
+        </li>
+        <li>
+          <a routerLink="./products" routerLinkActive="active"> <i class="menu-icon ti-email"></i>Products </a>
+        </li>
+        <li>
+          <a routerLink="./reviews" routerLinkActive="active"> <i class="menu-icon ti-email"></i>Reviews </a>
+        </li>
+        <li>
+          <a routerLink="./users" routerLinkActive="active"> <i class="menu-icon ti-email"></i>Users </a>
+        </li>
+
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </nav>
+</aside><!-- /#left-panel -->
+
+<!-- Left Panel -->
+
+<!-- Right Panel -->
+
+<div id="right-panel" class="right-panel container-fluid" style="float: right;">
+
+  <!-- Header-->
+  <header id="header" class="header">
+
+    <div class="header-menu">
+
+      <div class="col-sm-5" style="float: right;">
+        <div class="user-area dropdown float-right">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <img class="user-avatar rounded-circle" src="assets/images/admin.jpg" alt="User Avatar">
+          </a>
+
+          <div class="user-menu dropdown-menu">
+            <a class="nav-link" [routerLink]=""><i class="fa fa-user"></i> My Profile</a>
+
+            <a class="nav-link" [routerLink]=""><i class="fa fa-cog"></i> Settings</a>
+
+            <a class="nav-link" [routerLink]="" (click)="logout()"><i class="fa fa-power-off"></i> Logout</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </header><!-- /header -->
+  <!-- Header-->
+  <div style="margin-left: 20%;">
+    <router-outlet></router-outlet>
+
+  </div>
+</div><!-- /#right-panel -->
+
+<!-- Right Panel -->

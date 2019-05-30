@@ -1,0 +1,36 @@
+<div class="content mt-3">
+  <div class="animated fadeIn">
+    <div class="row">
+
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <strong class="card-title">Data Table</strong>
+          </div>
+          <div class="card-body">
+            <table id="bootstrap-data-table-export" class="table table-striped table-bordered">
+              <thead>
+              <tr>
+                <th>#</th>
+                <th>User</th>
+                <th>Product</th>
+                <th>Rating</th>
+                <th>Description</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr *ngFor="let review of reviews | async">
+                <!--<td *ngFor="let col of columns">
+                  {{product[col]}}
+                </td>-->
+              </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div><!-- .animated -->
+</div><!-- .content -->
