@@ -12,8 +12,6 @@ allprojects {
 
     ext {
         springVersion = '5.0.3.RELEASE'
-        postgresqlVersion = '42.2.1'
-//        jdbcpostgreSqlVersion = '9.1-901.jdbc4'
         dbcpVersion = '2.2.0'
 
         slf4jVersion = '1.7.25'
@@ -66,6 +64,10 @@ allprojects {
 
         //lombok
         compile group: 'org.projectlombok', name: 'lombok', version: "$lombokVersion"
+
+        compile group: 'org.springframework.security', name: 'spring-security-core', version: '4.2.1.RELEASE'
+        compile group: 'org.springframework.security', name: 'spring-security-web', version: '4.2.1.RELEASE'
+        compile group: 'org.springframework.security', name: 'spring-security-config', version: '4.2.1.RELEASE'
 
 
     }

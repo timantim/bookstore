@@ -32,6 +32,11 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
+    public User getUserByUsername(String username) {
+        return userRepository.getUserByUsername(username);
+    }
+
+    @Override
     @Transactional
     public User updateUser(Long userId, String username, String password, String firstName, String lastName, Boolean isAdmin) {
         log.trace("updateUser: username={}, password={}, firstName={}, lastName={}",
